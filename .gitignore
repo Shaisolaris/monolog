@@ -6,3 +6,5 @@ composer.lock
 .php_cs.cache
 .hg
 .phpunit.result.cache
+config.bat
+node_modules
